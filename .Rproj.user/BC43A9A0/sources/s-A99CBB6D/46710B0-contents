@@ -1,0 +1,24 @@
+Package: liveregr
+Type: Package
+Title: Analyse the Irish CSO Live Register unemployment dataset
+Version: 0.1.0
+Authors@R: person("Mark","Stewart", email = "mark.stewart.1@ucdconnect.ie", role = c("aut", "cre"))
+Description: The Irish Central Statistics Office (CSO) is responsible for publishing many socio-economic datasets including the Live Register unemploymentdata. The data describes the persons on the Live Register by Age Group, Sex, Month, Year and Statistic.
+    This package includes functions to load, filter, analyse and plot the data. There is also a Shiny App is included to make using these functions easier.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: magrittr,
+    jsonlite,
+    tidyr,
+    shiny,
+    utils,
+    ggplot2,
+    scales,
+    stats,
+    splines
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

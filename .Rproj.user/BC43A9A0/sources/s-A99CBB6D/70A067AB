@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533405667140.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "70A067AB",
+    "lastKnownWriteTime" : 1533428452,
+    "last_content_update" : 1533428452024,
+    "path" : "~/Dropbox/MSc - Data Analytics/Modules/Adv Data Prog with R/Project/liveregr/R/filter.livereg.R",
+    "project_path" : "R/filter.livereg.R",
+    "properties" : {
+        "cursorPosition" : "17,6",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

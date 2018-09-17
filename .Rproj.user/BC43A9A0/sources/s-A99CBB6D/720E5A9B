@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532988732911.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "720E5A9B",
+    "lastKnownWriteTime" : 1533763643,
+    "last_content_update" : 1533763643966,
+    "path" : "~/Dropbox/MSc - Data Analytics/Modules/Adv Data Prog with R/Project/liveregr/R/fit.livereg.R",
+    "project_path" : "R/fit.livereg.R",
+    "properties" : {
+        "cursorPosition" : "89,0",
+        "scrollLine" : "80",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
